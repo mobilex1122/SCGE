@@ -1,0 +1,15 @@
+{
+    "title": "Game",
+    "author": "Mobilex1122",
+    "objects": [
+        {
+            "name": "player",
+            "script": "player.cge",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "fill": "#FF0000"
+        }
+    ]
+}
